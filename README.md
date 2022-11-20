@@ -1,4 +1,5 @@
-![touch it](https://badgen.net/badge/status/live/green?icon=github)
+![Awesome](https://badgen.net/badge/icon/awesome?icon=awesome&label) ![Awesome](https://badgen.net/badge/;/JavaScript/yellow?icon=bitcoin-lightning) ![touch it](https://badgen.net/badge/status/live/green?icon=github)
+
 ## Touch it!
 A Two player Fun game. Both the players have to compete against each other by tapping as fast as possible!
 
